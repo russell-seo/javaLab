@@ -1,6 +1,6 @@
 package sec03.exam04_clone;
 
-public class Member implements clonable{
+public class Member {
 	public String id;
 	public String name;
 	public String password;
